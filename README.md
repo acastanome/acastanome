@@ -44,7 +44,7 @@ Here are some ideas to get you started:
   &emsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40px" width="40px" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="40px" width="40px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="40px" width="40px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php.svg"  height="40px" width="40px"/>
+  <img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/php.svg"  height="40px" width="40px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40px" width="40px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" height="40px" width="40px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40px" width="40px" />
