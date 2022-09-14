@@ -1,6 +1,6 @@
+<!--
 ### Hi there 👋
 
-<!--
 **acastanome/acastanome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -44,11 +44,11 @@ Here are some ideas to get you started:
   &emsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40px" width="40px" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="40px" width="40px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="40px" width="40px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original-wordmark.svg"  height="40px" width="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php.svg"  height="40px" width="40px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40px" width="40px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" height="40px" width="40px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40px" width="40px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/emacs/emacs-original.svg" height="40px" width="40px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/emacs/emacs.svg" height="40px" width="40px" />
   <!--
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"  height="40px" width="40px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40px" width="40px" />
