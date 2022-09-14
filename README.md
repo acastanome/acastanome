@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <h2>Quick recap</h2>
 
-<p>&emsp;• 👩🏻‍💻 Actively working on <a href="https://github.com/acastanome/Hive_camagru">Camagru</a> project, a social media app that resembles Instagram. It uses JavaScript, HTML and CSS for the frontend and PHP and MySQL for the backend</p>
+<p>&emsp;• 👩🏻‍💻 Actively working on <a href="https://github.com/acastanome/Hive_camagru">Camagru</a> project, a social media app that resembles Instagram.<br>&emsp;&emsp;It uses JavaScript, HTML and CSS for the frontend and PHP and MySQL for the backend</p>
 <!--
 <p>&emsp;• 📖  Meanwhile completing the <a href="https://fullstackopen.com/en/">Full Stack Open</a> course. Follow my progress <a href="https://github.com/IanGaplichnik/HY_FSO">here!</a> </p>
 -->
