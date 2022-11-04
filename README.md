@@ -25,11 +25,12 @@ Here are some ideas to get you started:
 
 <h2>Quick recap</h2>
 
-<p>&emsp;• 👩🏻‍💻 Actively working on <a href="https://github.com/acastanome/Hive_camagru">Camagru</a> project, a social media app that resembles Instagram.<br>&emsp;&emsp;It uses JavaScript, HTML and CSS for the frontend and PHP and MySQL for the backend</p>
+<p>&emsp;• 👩🏻‍💻 Currently working on <a href="https://github.com/acastanome/FullStackOpen2022">Full Stack Open 2022</p>
 <!--
 <p>&emsp;• 📖  Meanwhile completing the <a href="https://fullstackopen.com/en/">Full Stack Open</a> course. Follow my progress <a href="https://github.com/IanGaplichnik/HY_FSO">here!</a> </p>
 -->
 <p>&emsp;• 🔥 Most of my works are in C, and publicly available on Github</p>
+<p>&emsp;• 📸 Diving into web development, just finished <a href="https://github.com/acastanome/Hive_camagru">Camagru</a> project, a social media app that resembles Instagram.<br>&emsp;&emsp;It uses JavaScript, HTML and CSS for the frontend and PHP, MySQL and MariaDB for the backend.</p>
 <!--
 <p>&emsp;• 📩 I am open for work</p>
 -->
