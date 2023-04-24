@@ -25,14 +25,16 @@ Here are some ideas to get you started:
 
 <h2>Quick recap</h2>
 
-<p>&emsp;• 👩🏻‍💻 Learning more about web development through <a href="https://github.com/acastanome/FullStackOpen2022">Full Stack Open.</p>
+<!-- <p>&emsp;• 👩🏻‍💻 Learning more about web development through <a href="https://github.com/acastanome/FullStackOpen2022">Full Stack Open.</p> -->
+  
+<p>&emsp;• 👩🏻‍💻 Currently learning TypeScript.</p>
 <!--
 <p>&emsp;• 📖  Meanwhile completing the <a href="https://fullstackopen.com/en/">Full Stack Open</a> course. Follow my progress <a href="https://github.com/IanGaplichnik/HY_FSO">here!</a> </p>
 -->
 <p>&emsp;• I did several projects in C before starting to learn abut web development. Most of my projects are publicly available on Github</p>
 <p>&emsp;• 📸 Created a social media app, <a href="https://github.com/acastanome/Hive_camagru">Camagru</a>, that resembles Instagram.<br>&emsp;&emsp;It uses Vanilla JavaScript, HTML and CSS for the frontend and PHP, MySQL and MariaDB for the backend.</p>
-<p>&emsp;• 🔥 Just finished <a href="https://github.com/JuhoKangas/matcha">Matcha</a>, a dating app that resembles Tinder.<br>&emsp;&emsp;It uses ReactJS, Redux, Node.js, Express.js, PostgreSQL & Tailwind CSS</p>
-<p>&emsp;• 🎥 Currently working on the last project of Hive studies: <a href="https://github.com/JuhoKangas/hypertube">HyperTube</a>, a video streaming app.<br>&emsp;&emsp;It uses ReactJS, Node.js, Express.js, PostgreSQL & Tailwind CSS</p>
+<p>&emsp;• 🔥 <a href="https://github.com/JuhoKangas/matcha">Matcha</a>, a dating app that resembles Tinder.<br>&emsp;&emsp;It uses ReactJS, Redux, Node.js, Express.js, PostgreSQL & Tailwind CSS</p>
+<p>&emsp;• 🎥 Finished the last project of Hive studies: <a href="https://github.com/JuhoKangas/hypertube">HyperTube</a>, a video streaming app.<br>&emsp;&emsp;It uses ReactJS, Node.js, Express.js, PostgreSQL & Tailwind CSS</p>
 <!--
 <p>&emsp;• 📩 I am open for work</p>
 -->
