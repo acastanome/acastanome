@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <h1>Hi there 👋 </h1>
 
-<p>&emsp;I'm Alba, currently studying Software Engineering at <a href="https://www.hive.fi/">Hive Helsinki</a> :honeybee:</p>
+<p>&emsp;I'm Alba, and I'm looking for a job as I just graduated as a Software Engineer from <a href="https://www.hive.fi/">Hive Helsinki</a> :honeybee:</p>
 
 <h2>Quick recap</h2>
 
