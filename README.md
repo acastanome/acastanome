@@ -21,13 +21,17 @@ Here are some ideas to get you started:
 
 <h1>Hi there 👋 </h1>
 
-<p>&emsp;I'm Alba, and I'm looking for a job as I just graduated as a Software Engineer from <a href="https://www.hive.fi/">Hive Helsinki</a> :honeybee:</p>
+<p>&emsp;I'm Alba, a Software Engineer gone enterpreneur</p>
 
-<h2>Quick recap</h2>
+<p>&emsp;• My mothertongue is Spanish 🇪🇸 and I'm fluent in English 🇬🇧 and Finnish 🇫🇮
+
+<p>&emsp;• I co-founded Hei Dingo Oy to connect international women with job opportunities, where I worked as a CTO developing an app to achieve this.
+
+<h2>Projects done at <a href="https://www.hive.fi/">Hive Helsinki</a> :honeybee:</h2>
 
 <!-- <p>&emsp;• 👩🏻‍💻 Learning more about web development through <a href="https://github.com/acastanome/FullStackOpen2022">Full Stack Open.</p> -->
   
-<p>&emsp;• 👩🏻‍💻 Currently learning TypeScript.</p>
+<!-- <p>&emsp;• 👩🏻‍💻 Currently learning C++.</p> -->
 <!--
 <p>&emsp;• 📖  Meanwhile completing the <a href="https://fullstackopen.com/en/">Full Stack Open</a> course. Follow my progress <a href="https://github.com/IanGaplichnik/HY_FSO">here!</a> </p>
 -->
@@ -38,7 +42,7 @@ Here are some ideas to get you started:
 <!--
 <p>&emsp;• 📩 I am open for work</p>
 -->
-<p>&emsp;• My mothertongue is Spanish 🇪🇸 and I'm fluent in English 🇬🇧 and Finnish 🇫🇮
+
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=acastanome&show_icons=true&theme=react" height="150px"/>           
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=acastanome&show_icons=true&theme=react" height="150px"/>
@@ -46,7 +50,11 @@ Here are some ideas to get you started:
 
 <h2>Current stack</h2>
 <div>
-  &emsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" height="40px" width="40px" />
+  &emsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" alt="Kotlin" height="40px" width="40px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original.svg" alt="Gradle" height="40px" width="40px" />
+          
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" height="40px" width="40px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" alt="git" height="40px" width="40px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" height="40px" width="40px" />
   
@@ -71,7 +79,7 @@ Here are some ideas to get you started:
 
 <h3>📫 Contact links</h3>
 <div>
-  &emsp;<a href="https://www.linkedin.com/in/alba-castano-b49791227">
+  &emsp;<a href="https://www.linkedin.com/in/alba-castano">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height ="40px" width="40px"/>
   </a>
   <a href="mailto:acastanome@gmail.com">
