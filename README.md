@@ -21,11 +21,13 @@ Here are some ideas to get you started:
 
 <h1>Hi there 👋 </h1>
 
-<p>&emsp;I'm Alba, a Software Engineer gone enterpreneur</p>
+<p>&emsp;I'm Alba, a Software Engineer @Wolt</p>
 
 <p>&emsp;• My mothertongue is Spanish 🇪🇸 and I'm fluent in English 🇬🇧 and Finnish 🇫🇮
 
 <p>&emsp;• I co-founded Hei Dingo Oy to connect international women with job opportunities, where I worked as a CTO developing an app to achieve this.
+
+<p>&emsp;• After a +year of hard work, I decided to fully focus on coding, and joined Wolt on December 2024.
 
 <h2>Projects done at <a href="https://www.hive.fi/">Hive Helsinki</a> :honeybee:</h2>
 
