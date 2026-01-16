@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 <h2>Other Projects 👩🏻‍💻</h2>
 <p>&emsp;This section is under construction, but here is a little preview:</p>
 <p>&emsp;• C++ -> Game development challenge:<br>&emsp;&emsp;Day 1: 24h to process and plan with the given theme.<br>&emsp;&emsp;Day 2: 12h to fix the basic code given and build upon it. (Private repo)</p>
-<p>&emsp;• Kotlin -> Price calculator.</p>
+<p>&emsp;• Kotlin -> Price calculator. (Private repo)</p>
 
 
 <!-- <div>
