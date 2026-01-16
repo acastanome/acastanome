@@ -13,44 +13,39 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-<div align="center">
-<img src="https://github.com/IanGaplichnik/IanGaplichnik/blob/main/hello_gif.gif" />
-</div>
 -->
 
 <h1>Hi there 👋 </h1>
 
-<p>&emsp;I'm Alba, a Software Engineer @Wolt</p>
+<p>&emsp;I'm Alba, a Software Engineer who dabbles in both Frontend and Backend development.</p>
 
 <p>&emsp;• My mothertongue is Spanish 🇪🇸 and I'm fluent in English 🇬🇧 and Finnish 🇫🇮
 
 <p>&emsp;• I co-founded Hei Dingo Oy to connect international women with job opportunities, where I worked as a CTO developing an app to achieve this.
 
-<p>&emsp;• After a +year of hard work, I decided to fully focus on coding, and joined Wolt on December 2024.
-
+<p>&emsp;• Founder work took so much time, I decided to fully focus on coding, moving on and working as a Backend Software Engineer (Kotlin) at Wolt.  
+  
+  
 <h2>Projects done at <a href="https://www.hive.fi/">Hive Helsinki</a> :honeybee:</h2>
 
-<!-- <p>&emsp;• 👩🏻‍💻 Learning more about web development through <a href="https://github.com/acastanome/FullStackOpen2022">Full Stack Open.</p> -->
-  
-<!-- <p>&emsp;• 👩🏻‍💻 Currently learning C++.</p> -->
-<!--
-<p>&emsp;• 📖  Meanwhile completing the <a href="https://fullstackopen.com/en/">Full Stack Open</a> course. Follow my progress <a href="https://github.com/IanGaplichnik/HY_FSO">here!</a> </p>
--->
-<p>&emsp;• I did several projects in C before starting to learn abut web development. Most of my projects are publicly available on Github</p>
+<p>&emsp;• Core studies are done in C, so I did several projects (most publicly available repositories) before starting to learn abut web development.</p>
 <p>&emsp;• 📸 Created a social media app, <a href="https://github.com/acastanome/Hive_camagru">Camagru</a>, that resembles Instagram.<br>&emsp;&emsp;It uses Vanilla JavaScript, HTML and CSS for the frontend and PHP, MySQL and MariaDB for the backend.</p>
-<p>&emsp;• 🔥 <a href="https://github.com/JuhoKangas/matcha">Matcha</a>, a dating app that resembles Tinder.<br>&emsp;&emsp;It uses ReactJS, Redux, Node.js, Express.js, PostgreSQL & Tailwind CSS</p>
-<p>&emsp;• 🎥 Finished the last project of Hive studies: <a href="https://github.com/JuhoKangas/hypertube">HyperTube</a>, a video streaming app.<br>&emsp;&emsp;It uses ReactJS, Node.js, Express.js, PostgreSQL & Tailwind CSS</p>
-<!--
-<p>&emsp;• 📩 I am open for work</p>
--->
+<p>&emsp;• 🔥 <a href="https://github.com/JuhoKangas/matcha">Matcha</a>, a dating app that resembles Tinder. Team project.<br>&emsp;&emsp;It uses ReactJS, Redux, Node.js, Express.js, PostgreSQL & Tailwind CSS</p>
+<p>&emsp;• 🎥 Finished the last project of Hive studies: <a href="https://github.com/JuhoKangas/hypertube">HyperTube</a>, a video streaming app. Team project.<br>&emsp;&emsp;It uses ReactJS, Node.js, Express.js, PostgreSQL & Tailwind CSS</p>
 
-<div>
+
+<h2>Other Projects 👩🏻‍💻</h2>
+<p>&emsp;This section is under construction, but here is a little preview:</p>
+<p>&emsp;• C++ -> Game development challenge:<br>&emsp;&emsp;Day 1: 24h to process and plan with the given theme.<br>&emsp;&emsp;Day 2: 12h to fix the basic code given and build upon it. (Private repo)</p>
+<p>&emsp;• Kotlin -> Price calculator.</p>
+
+
+<!-- <div>
   <img src="https://github-readme-stats.vercel.app/api?username=acastanome&show_icons=true&theme=react" height="150px"/>           
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=acastanome&show_icons=true&theme=react" height="150px"/>
-</div>
+</div> -->
 
-<h2>Current stack</h2>
+<h2>Stack</h2>
 <div>
   &emsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" alt="Kotlin" height="40px" width="40px" />
